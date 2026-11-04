@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+data/original/
+data/input/
+data/output/
+*.AGF
+*.agf
+*.exe
+*.png
+*.gif
+*.psd
